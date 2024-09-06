@@ -38,16 +38,16 @@ const Home = () => {
       <div className="p-6 md:p-12">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           <div className="bg-gray-300 p-6 rounded-lg shadow-lg flex items-center justify-center h-[200px]">
-            <h2 className="text-xl font-bold">10+ years of experience</h2>
+            <h2 className="text-xl font-bold">15+ years of experience</h2>
           </div>
           <div className="bg-gray-300 p-6 rounded-lg shadow-lg flex items-center justify-center h-[200px]">
             <h2 className="text-xl font-bold">2500+ satisfied customers</h2>
           </div>
           <div className="bg-gray-300 p-6 rounded-lg shadow-lg flex items-center justify-center h-[200px]">
-            <h2 className="text-xl font-bold">600+ completed projects in MNRE DBT SCHEME Kerala</h2>
+            <h2 className="text-xl font-bold">100+ completed projects in MNRE DBT SCHEME Kerala</h2>
           </div>
           <div className="bg-gray-300 p-6 rounded-lg shadow-lg flex items-center justify-center h-[200px]">
-            <h2 className="text-xl font-bold">8.5 MW Roof top Solar Installations</h2>
+            <h2 className="text-xl font-bold">Above 1MW Roof top Solar Installations</h2>
           </div>
         </div>
       </div>
