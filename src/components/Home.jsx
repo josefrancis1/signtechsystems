@@ -5,7 +5,7 @@ import demo3 from '../assets/images/save2.jpg';
 import demo4 from '../assets/images/save3.jpg';
 import demo5 from '../assets/images/save4.jpg';
 
-const images = [demo2, demo3, demo4, demo5]; 
+const images = [demo2, demo3, demo4, demo5]; // add
 const Home = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
