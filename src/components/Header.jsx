@@ -1,4 +1,4 @@
-create aclosing button for this page:import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import logo from '../assets/images/logo.jpg';
 const Header = () => {
@@ -62,7 +62,7 @@ const Header = () => {
           </div>
         </div>
         {/* Mobile Menu */}
-        <div className={mobile-menu mt-4 ${isMenuOpen ? 'block' : 'hidden'} md:hidden}>
+        <div className={`mobile-menu mt-4 ${isMenuOpen ? 'block' : 'hidden'} md:hidden`}>
           <ul className="flex flex-col items-center">
             {navLinks.map((link, index) => (
               <li key={index} className="py-2">
